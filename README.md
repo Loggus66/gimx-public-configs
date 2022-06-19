@@ -1,2 +1,5 @@
 # gimx-public-configs
-my dot-gimx folder
+clone:
+
+git clone https://github.com/Loggus66/gimx-public-configs ${HOME}/.gimx
+
